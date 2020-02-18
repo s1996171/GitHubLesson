@@ -1,6 +1,3 @@
 This is an example file 
 #edit1
 This is to show a difference
-
-
-Another practise line
